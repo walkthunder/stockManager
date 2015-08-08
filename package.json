@@ -1,0 +1,8 @@
+{
+  "name": "Stock-Server",
+  "version": "0.0.1",
+  "description": "Manage your stocks.",
+  "dependencies": {
+    "request": "latest"
+  }
+}
